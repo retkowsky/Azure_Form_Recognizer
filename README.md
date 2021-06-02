@@ -6,6 +6,9 @@
 Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-1
 
+
+<img src="https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/media/tables-example.jpg">
+
 02-Jun-2021
 
 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
