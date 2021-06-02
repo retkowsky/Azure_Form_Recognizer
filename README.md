@@ -4,7 +4,7 @@
 
 
 Documentation:
-https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/#:~:text=Azure%20Form%20Recognizer%20is%20a%20cognitive%20service%20that,that%20includes%20the%20relationships%20in%20the%20original%20file.
+https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-1
 
 02-Jun-2021
 
