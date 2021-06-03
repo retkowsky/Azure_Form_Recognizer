@@ -6,6 +6,8 @@
 Documentation:
 https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-1
 
+Additional examples:
+https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/formrecognizer/azure-ai-formrecognizer/samples
 
 <img src="https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/media/tables-example.jpg">
 
